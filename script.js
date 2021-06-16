@@ -1,4 +1,4 @@
-let Const = 25;('How many years old are you?')
+let Const = 25; ('How many years old are you?')
 if (Const >= 17) {
   console.log('You can see an R rated movie alone')
 } else if (Const >= 13) {
